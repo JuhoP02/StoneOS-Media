@@ -1,3 +1,4 @@
 *.svid filter=lfs diff=lfs merge=lfs -text
 *.saud filter=lfs diff=lfs merge=lfs -text
 *.sva filter=lfs diff=lfs merge=lfs -text
+*.dfpwm filter=lfs diff=lfs merge=lfs -text
